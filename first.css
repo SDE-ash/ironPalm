@@ -9,6 +9,13 @@ body {
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
 
+.log a {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    height: 50px;
+}
+
 header .navbar{
     display: flex;
     align-items: center;
