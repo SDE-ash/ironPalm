@@ -209,8 +209,13 @@ h4{
     
 }
 
+
 .all-rev:hover {
     background-color: rgb(194, 255, 221);
+}
+
+.all-rev span {
+    padding-left: 5px;
 }
 
 .carousel-slide {
